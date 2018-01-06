@@ -1,2 +1,2 @@
-# azureblobupload
-Script to upload files to azure blob storage
+# Couchbase2Blob
+Script to upload couchbase backup files to azure blob storage
